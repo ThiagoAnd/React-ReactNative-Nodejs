@@ -5,7 +5,7 @@ import Simples from './componentes/Simples'
 export default function() {
     return (
       <View style={styles.container}>
-        <Simples texto='Componente Simples'/>
+        <Simples texto='Componente'/>
         <Text style={styles.f20}>App do Thiago</Text>
       </View>
     )
